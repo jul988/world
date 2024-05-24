@@ -1,0 +1,5 @@
+# This is a comment in Python, denoted by the hash symbol (#)
+# Comments are not executed as part of the code
+
+# The print() function is used to output text to the console
+print("Hello, World!")
